@@ -30,6 +30,8 @@ jobs:
         run: |
           git config --global user.name 'RongjayWu'
           git config --global user.email 'rjw20031128@gmail.com'
+          git add package-lock.json
+          git commit -m "Added package-lock.json"
           git commit -am "dist build"
           git push
 
