@@ -30423,7 +30423,7 @@ async function fetchAllEvents() {
 
             // Check for API rate limit or pagination issues
             if (events.length === 0) {
-                core.warning('⚠️ T6: more events available.');
+                core.warning('⚠️ T7: more events available.');
                 break; // No more events to fetch
             }
 
