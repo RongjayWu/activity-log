@@ -31,6 +31,7 @@ jobs:
           git config --global user.name 'RongjayWu'
           git config --global user.email 'rjw20031128@gmail.com'
           git commit -am "dist build"
+          git add package-lock.json
           git push
 
   test:
