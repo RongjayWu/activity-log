@@ -73,13 +73,13 @@ async function fetchAllEvents() {
 
             // Check for API rate limit or pagination issues
             if (events.length === 0) {
-                core.warning('⚠️ T6: No more events available.');
+                core.warning('⚠️ No more events available.');
                 break; // No more events to fetch
             }
 
             allEvents = allEvents.concat(events);
             page++;
-
+            //試試看
             // Exit loop if we have enough events
             if (allEvents.length >= eventLimit) {
                 break;
