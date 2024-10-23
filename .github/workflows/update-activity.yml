@@ -14,7 +14,7 @@ jobs:
         uses: ./
         with:
           GITHUB_USERNAME: "RongjayWu"
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTIONSECRET }}
           EVENT_LIMIT: 10
           OUTPUT_STYLE: MARKDOWN
           IGNORE_EVENTS: "[]"
