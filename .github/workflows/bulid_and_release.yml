@@ -43,7 +43,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Test index.js
         env:
-          INPUT_GITHUB_USERNAME: "RongjayWu"
+          INPUT_GITHUB_USERNAME: 'RongjayWu'
           INPUT_GITHUB_TOKEN: ${{ secrets.ACTIONSECRET }}
           INPUT_TARGET_REPOS: '[RongjayWu/activity-log]'
           INPUT_OUTPUT_STYLE: MARKDOWN
