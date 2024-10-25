@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #3](https://github.com/TzuChiaWang/devops1025/pull/3) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-2. 📝 Committed to [RongjayWu/devops1025](https://github.com/RongjayWu/devops1025/commit/b163fecca0c4b042fc0dcb776919ec754381ee3b)
-3. 🗣 Commented on issue [#1](https://github.com/TzuChiaWang/devops1025/issues/1) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/1#issuecomment-2437267953)
-4. ➕ Created a new branch [`1-rjw`](https://github.com/TzuChiaWang/devops1025/tree/1-rjw) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-5. 🍴 Forked [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-6. 🗣 Commented on issue [#1](https://github.com/TzuChiaWang/devops1025/issues/1) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/1#issuecomment-2437226986)
-7. 📝 Committed to [RongjayWu/activity-log](https://github.com/RongjayWu/activity-log/commit/c196b0aeaead2d420f4b2a9f37f32f396a893ee0)
-8. 📝 Committed to [RongjayWu/activity-log](https://github.com/RongjayWu/activity-log/commit/7206108217603429a25b39a07ec6102ed5683373)
-9. 📝 Committed to [RongjayWu/activity-log](https://github.com/RongjayWu/activity-log/commit/74256e4a0824d13ac44dec095ee30f1f289100f7)
-10. 📝 Committed to [RongjayWu/activity-log](https://github.com/RongjayWu/activity-log/commit/9b4ca6246824abcec0b0ea9b6226137da8d8185b)
+1. ➕ Created a new branch [`7-rjw`](https://github.com/TzuChiaWang/devops1025/tree/7-rjw) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+2. 🍴 Forked [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+3. ❌ Closed [PR #6](https://github.com/TzuChiaWang/devops1025/pull/6) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+4. 🔄 Reopened [PR #6](https://github.com/TzuChiaWang/devops1025/pull/6) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+5. ❌ Closed [PR #3](https://github.com/TzuChiaWang/devops1025/pull/3) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+6. 📥 Opened [PR #6](https://github.com/TzuChiaWang/devops1025/pull/6) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+7. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/4dc54e8a72e50bbd4002298f26ea513bbcad0f4c)
+8. 📥 Opened [PR #3](https://github.com/TzuChiaWang/devops1025/pull/3) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+9. 📝 Committed to [RongjayWu/devops1025](https://github.com/RongjayWu/devops1025/commit/b163fecca0c4b042fc0dcb776919ec754381ee3b)
+10. 🗣 Commented on issue [#1](https://github.com/TzuChiaWang/devops1025/issues/1) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/1#issuecomment-2437267953)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
