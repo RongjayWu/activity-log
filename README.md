@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed [PR #3](https://github.com/ntust-im-iov/ChargeGamification/pull/3) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
-2. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/701fcb0dc94354d7bedc26a0ff18d1e834395536)
-3. ❌ Closed an issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-4. 🔀 Merged [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-5. 📥 Opened [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-6. 🗑️ Deleted a branch `RongjayWu-patch-1` in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-7. 🗣 Commented on issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/9#issuecomment-2437788029)
-8. 🔄 Reopened an issue [#7](https://github.com/TzuChiaWang/devops1025/issues/7) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-9. ❌ Closed an issue [#7](https://github.com/TzuChiaWang/devops1025/issues/7) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-10. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/701fcb0dc94354d7bedc26a0ff18d1e834395536)
+1. 📥 Opened [PR #4](https://github.com/ntust-im-iov/ChargeGamification/pull/4) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+2. 📝 Committed to [RongjayWu/ChargeGamification](https://github.com/RongjayWu/ChargeGamification/commit/e1250a13d80702eb5c6eca1f3b6a07df8843040f)
+3. 🍴 Forked [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+4. 🔎 Reviewed [PR #3](https://github.com/ntust-im-iov/ChargeGamification/pull/3) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+5. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/701fcb0dc94354d7bedc26a0ff18d1e834395536)
+6. ❌ Closed an issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+7. 🔀 Merged [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+8. 📥 Opened [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+9. 🗑️ Deleted a branch `RongjayWu-patch-1` in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+10. 🗣 Commented on issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/9#issuecomment-2437788029)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
