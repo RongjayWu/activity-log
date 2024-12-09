@@ -20,14 +20,14 @@ A GitHub Action that automatically updates your README file with the latest acti
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
-3. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/7f8fb6ff9dfc22f88d5553daad9ea7f0db160cdd)
+3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/de9933041e00c8252eef769a0bd6661f216035b2)
-6. ➕ Created a new branch [`main`](https://github.com/RongjayWu/A-easy-flask-test/tree/main) in [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
-7. 🎉 Created a new repository [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
-8. 📝 Committed to a private repo
-9. 📝 Committed to [RongjayWu/ChargeGamification](https://github.com/RongjayWu/ChargeGamification/commit/e1250a13d80702eb5c6eca1f3b6a07df8843040f)
-10. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/701fcb0dc94354d7bedc26a0ff18d1e834395536)
+5. 📝 Committed to a private repo
+6. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/7f8fb6ff9dfc22f88d5553daad9ea7f0db160cdd)
+7. 📝 Committed to a private repo
+8. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/de9933041e00c8252eef769a0bd6661f216035b2)
+9. ➕ Created a new branch [`main`](https://github.com/RongjayWu/A-easy-flask-test/tree/main) in [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
+10. 🎉 Created a new repository [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
