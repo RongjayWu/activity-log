@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`main`](https://github.com/RongjayWu/A-easy-flask-test/tree/main) in [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
-2. 🎉 Created a new repository [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
-3. 📝 Committed to a private repo
-4. 📝 Committed to [RongjayWu/ChargeGamification](https://github.com/RongjayWu/ChargeGamification/commit/e1250a13d80702eb5c6eca1f3b6a07df8843040f)
-5. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/701fcb0dc94354d7bedc26a0ff18d1e834395536)
-6. ❌ Closed an issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-7. 🔀 Merged [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-8. 📥 Opened [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-9. 🗑️ Deleted a branch `RongjayWu-patch-1` in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
-10. 🗣 Commented on issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/9#issuecomment-2437788029)
+1. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/7f8fb6ff9dfc22f88d5553daad9ea7f0db160cdd)
+2. 📝 Committed to a private repo
+3. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/de9933041e00c8252eef769a0bd6661f216035b2)
+4. ➕ Created a new branch [`main`](https://github.com/RongjayWu/A-easy-flask-test/tree/main) in [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
+5. 🎉 Created a new repository [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
+6. 📝 Committed to a private repo
+7. 📝 Committed to [RongjayWu/ChargeGamification](https://github.com/RongjayWu/ChargeGamification/commit/e1250a13d80702eb5c6eca1f3b6a07df8843040f)
+8. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/701fcb0dc94354d7bedc26a0ff18d1e834395536)
+9. ❌ Closed an issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+10. 🔀 Merged [PR #10](https://github.com/TzuChiaWang/devops1025/pull/10) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
