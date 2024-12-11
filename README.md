@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. 📥 Opened a PR in a private repo
 2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
+3. ❌ Closed a PR in a private repo
+4. 📥 Opened a PR in a private repo
 5. 📝 Committed to a private repo
-6. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/7f8fb6ff9dfc22f88d5553daad9ea7f0db160cdd)
+6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test/commit/de9933041e00c8252eef769a0bd6661f216035b2)
-9. ➕ Created a new branch [`main`](https://github.com/RongjayWu/A-easy-flask-test/tree/main) in [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
-10. 🎉 Created a new repository [RongjayWu/A-easy-flask-test](https://github.com/RongjayWu/A-easy-flask-test)
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ## 📖Usage
