@@ -18,14 +18,14 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🔀 Merged a PR in a private repo
-3. 📥 Opened a PR in a private repo
+1. ➕ Created a new branch `Ranking-list` in a private repo
+2. 🗑️ Deleted a branch `leaderboard` in a private repo
+3. ➕ Created a new branch `leaderboard` in a private repo
 4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
+5. 🔀 Merged a PR in a private repo
 6. 📥 Opened a PR in a private repo
 7. 📝 Committed to a private repo
-8. ❌ Closed a PR in a private repo
+8. 📝 Committed to a private repo
 9. 📥 Opened a PR in a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
