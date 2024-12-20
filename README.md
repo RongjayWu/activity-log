@@ -18,15 +18,15 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `建立登入畫面` in a private repo
-2. 📝 Committed to [RongjayWu/github-action](https://github.com/RongjayWu/github-action/commit/6cc6e0fe3ae629da94c510b0c8a96b1b30a975aa)
-3. 📝 Committed to a private repo
-4. ➕ Created a new branch `Ranking-list` in a private repo
-5. 🗑️ Deleted a branch `leaderboard` in a private repo
-6. ➕ Created a new branch `leaderboard` in a private repo
-7. 📝 Committed to a private repo
-8. 🔀 Merged a PR in a private repo
-9. 📥 Opened a PR in a private repo
+1. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/81b171570d2fae8ba5c2fc667e867ecd168d6479)
+2. ❌ Closed an issue [#11](https://github.com/TzuChiaWang/devops1025/issues/11) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+3. 🔀 Merged [PR #12](https://github.com/TzuChiaWang/devops1025/pull/12) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+4. 📥 Opened [PR #12](https://github.com/TzuChiaWang/devops1025/pull/12) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+5. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/81b171570d2fae8ba5c2fc667e867ecd168d6479)
+6. ➕ Created a new branch [`11-for-jay`](https://github.com/TzuChiaWang/devops1025/tree/11-for-jay) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+7. 🗑️ Deleted a branch `建立登入畫面` in a private repo
+8. ➕ Created a new branch `建立登入畫面` in a private repo
+9. 📝 Committed to [RongjayWu/github-action](https://github.com/RongjayWu/github-action/commit/6cc6e0fe3ae629da94c510b0c8a96b1b30a975aa)
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
