@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. ➕ Created a new branch `Ranking-list` in a private repo
-3. 🗑️ Deleted a branch `leaderboard` in a private repo
-4. ➕ Created a new branch `leaderboard` in a private repo
-5. 📝 Committed to a private repo
-6. 🔀 Merged a PR in a private repo
-7. 📥 Opened a PR in a private repo
-8. 📝 Committed to a private repo
+1. 📝 Committed to [RongjayWu/github-action](https://github.com/RongjayWu/github-action/commit/6cc6e0fe3ae629da94c510b0c8a96b1b30a975aa)
+2. 📝 Committed to a private repo
+3. ➕ Created a new branch `Ranking-list` in a private repo
+4. 🗑️ Deleted a branch `leaderboard` in a private repo
+5. ➕ Created a new branch `leaderboard` in a private repo
+6. 📝 Committed to a private repo
+7. 🔀 Merged a PR in a private repo
+8. 📥 Opened a PR in a private repo
 9. 📝 Committed to a private repo
-10. 📥 Opened a PR in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ## 📖Usage
